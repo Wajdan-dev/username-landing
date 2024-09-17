@@ -1,0 +1,366 @@
+body {
+    font-family: 'Instrument Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FBFAFF;
+
+}
+
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.bttn button {
+    padding: 10px 28px 10px 28px;
+    border: 1.5px solid #2D2E3D26;
+    border-radius: 12px;
+    color: #2D2E3DBF;
+    background-color: transparent;
+    transition: .3s;
+    font-weight: 500;
+
+}
+
+.bttn button:hover {
+    background-color: #2D2E3D26;
+}
+
+.services-section {
+    padding: 80px 0px;
+}
+
+.services-title {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: center;
+    color: #2D2E3D;
+}
+
+.bottom-border {
+    max-width: 172px;
+    height: auto;
+}
+
+.services-desc {
+    color: #2D2E3DD9;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+
+
+}
+
+.cardd {
+    padding: 16px;
+    gap: 10px;
+    border-radius: 20px;
+    background: radial-gradient(126.24% 101.25% at 50% 101.25%, rgba(237, 138, 95, 0.025) 0%, rgba(255, 77, 0, 0.05) 99.99%);
+    border: 1.5px solid #EF8D5226;
+
+
+    height: 100%;
+
+}
+
+.card-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-content h1 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.card-content p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #2D2E3DD9;
+    margin: 0;
+
+}
+
+.services-btn button {
+    padding: 14px 32px 14px 32px;
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    box-shadow: 0px 0px 32px 0px #FD120D33;
+    border-radius: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    letter-spacing: 0.015em;
+    color: white;
+    border: none;
+}
+
+.platform-work {
+    padding: 60px 0px 80px 0px;
+    background: linear-gradient(235.7deg, rgba(253, 18, 13, 0.1) 27.5%, rgba(240, 132, 77, 0.1) 50.45%, rgba(253, 18, 13, 0.1) 72.5%);
+
+}
+
+.work-title {
+    color: #2D2E3D;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: center;
+
+}
+
+.social img {
+    cursor: pointer;
+}
+
+
+.expert-section {
+    padding: 100px 0px;
+}
+
+
+.custom-container {
+    max-width: 1100px;
+    margin: auto;
+    width: 100%;
+}
+
+.content-section h1 {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+    color: #2D2E3D;
+
+}
+
+.content-section h1 span {
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.content-section p {
+    color: #2D2E3DD9;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+
+}
+
+.handled {
+    padding: 40px 0px 100px 0px;
+}
+
+.handled-title {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+
+}
+
+.line {
+    position: absolute;
+    left: 37%;
+    bottom: -9px;
+}
+
+.handles {
+    max-width: 974px;
+    width: 100%;
+    margin: auto;
+}
+
+.tick {
+    width: 20px;
+    height: 20px;
+}
+
+.desc-2 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.52px;
+    color: #2D2E3D;
+    margin: 0;
+
+}
+
+
+.footer {
+    padding: 80px 0px 80px 0px;
+    background: white;
+}
+
+.footer-desc {
+    color: #2D2E3DD9;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    max-width: 414px;
+    margin: auto;
+}
+
+.boxx {
+    background: linear-gradient(180deg, rgba(239, 141, 82, 0.1) 0%, rgba(253, 18, 13, 0.1) 100%);
+    border: 1.5px solid rgba(239, 141, 82, 0.1);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.bottom-desc {
+    max-width: 888px;
+    width: 100%;
+    margin: auto;
+    color: #2D2E3D4D;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+
+}
+
+.hero-section {
+    padding: 150px 0px 0px 0px;
+    background-image: url('../images/Frame.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.banner button {
+    padding: 10px 24px 10px 24px;
+    border-radius: 50px;
+    background: linear-gradient(180deg, rgba(239, 141, 82, 0.08) 16.1%, rgba(253, 18, 13, 0.08) 100.85%),
+        radial-gradient(60.63% 101.25% at 50% 101.25%, rgba(253, 18, 13, 0.03) 0.01%, rgba(239, 130, 82, 0) 100%);
+    border: 1.5px solid #EF8D5233;
+    box-shadow: 0px 0px 20px 0px #FD120D1A;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    letter-spacing: 0.015em;
+
+}
+
+.banner button span {
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.hero-title {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 84px;
+
+}
+
+.hero-section span {
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+
+.hero-desc {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.015em;
+    color: #2D2E3DD9;
+    max-width: 646px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+
+.trusted img {
+    width: 95px;
+    height: auto;
+}
+
+.trusted p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    color: #2D2E3DBF;
+    margin: 0;
+
+}
+
+.analysis {
+    max-width: 692px;
+    width: 100%;
+    background: radial-gradient(126.24% 101.25% at 50% 101.25%, rgba(237, 138, 95, 0.02) 0%, rgba(255, 77, 0, 0.04) 99.99%);
+    border: 1.5px solid #EF8D5260;
+    padding: 20px 70px 20px 70px;
+    border-radius: 20px;
+
+    margin: auto;
+}
+
+.value {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.015em;
+    text-align: center;
+    background: linear-gradient(180deg, #EF8D52 0%, #FD120D 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+}
+
+.value-desc {
+    color: #2D2E3DBF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.6px;
+    text-align: center;
+
+}
+
+.companies img {
+    max-width: 93px;
+    width: 100%;
+    height: auto;
+
+}
+
+
+@media(max-width:776px) {
+    .hero-title {
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 60px;
+
+    }
+
+    .content-section h1 {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: normal;
+        color: #2D2E3D;
+        text-align: center;
+    }
+}
